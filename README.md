@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waddl3&label=Profile%20views&color=0e75b6&style=flat" alt="waddl3" /> </p>
 
-- 🔭 Currently working on **a compelling project with a friend, exploring MongoDB for the backend, Java for server-side logic, and diving into JSX for React Native front-end development.**
+- 🔭 Currently working on **a compelling project with a friend, exploring MongoDB for the backend, Java for server-side logic, Python OOP, Javascript and diving into JSX for React Native front-end development.**
 
 - 🌱 Mastering **MongoDB and delving into JavaScript's object-oriented programming, alongside various aspects of JSX. Expanding my expertise in data structures.**
 
 - 🚀 Primarily working with **C++ and Java**, I pride myself on adaptability and my eagerness to learn new languages and frameworks when the need arises.
 
-- 🏆 Certified in [C++ and Java OOP](C++ and Java OOP), currently mastering **Data Structures and Algorithms** with hands-on experience from LeetCode challenges.
+- 🏆 Certified in (C++ and Java OOP), currently mastering **Data Structures and Algorithms** with hands-on experience from LeetCode challenges.
 
 - 💬 I love discussing **programming languages, code optimization, and exploring the realms of back-end development. Eager to dive into new tech and tools!**
 
