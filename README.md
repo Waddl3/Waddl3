@@ -9,7 +9,7 @@
 
 - 🚀 Primarily working with **C++ and Java**, I pride myself on adaptability and my eagerness to learn new languages and frameworks when the need arises.
 
-- 🏆 Certified in (C++ and Java OOP), currently mastering **Data Structures and Algorithms** with hands-on experience from LeetCode challenges.
+- 🏆 Certified in **C++ and Java OOP**, currently mastering **Data Structures and Algorithms** with hands-on experience from LeetCode challenges.
 
 - 💬 I love discussing **programming languages, code optimization, and exploring the realms of back-end development. Eager to dive into new tech and tools!**
 
